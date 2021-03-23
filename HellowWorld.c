@@ -10,6 +10,5 @@ int main(void)
 
 	printf("%f\n", dData);
 	printf("%E - %E\n", DBL_MIN, DBL_MAX);
-//
 	return 0;
 }
